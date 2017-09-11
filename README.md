@@ -49,7 +49,7 @@ This is a list for mesh networking: Documentation, Free Software mesh protocols,
 
 * [ServalMesh Batphone](http://www.servalproject.org/) - This app assumes zero infrastructure. The phones talk to each other using WiFi; relaying calls and messages and figuring out how to resolve numbers. In other words, it lets your phone communicate with other Android phones running Serval Mesh within WiFi range. [Source Code](https://github.com/servalproject/batphone) `GPLv3` `Java`
 
-* [Splinternet](https://github.com/megamattron/SplinterNet) - A serverless, unblockable messaging system for Android. [Source Code](https://github.com/megamattron/SplinterNet)  `[MIT?](https://github.com/megamattron/SplinterNet/issues/6)` `Java`
+* [Splinternet](https://github.com/megamattron/SplinterNet) - A serverless, unblockable messaging system for Android. [Source Code](https://github.com/megamattron/SplinterNet)  `MIT`[?](https://github.com/megamattron/SplinterNet/issues/6)` `Java`
 
 * [Underdark](http://underdark.io/) Mobile peer-to-peer mesh networking library. Integrates into iOS and Android apps and works over Wi-Fi and Bluetooth. Demo app called Solidarity available for download. [Source Code](https://github.com/udark/underdark-android) `Apache 2.0 (With Extra Clause)` `Java`
 
