@@ -36,7 +36,7 @@ This is a list for mesh networking: Documentation, Free Software mesh protocols,
 
 * [FruityMesh](https://github.com/mwaylabs/fruitymesh/wiki) - The first completely connection-based open source mesh on top of Bluetooth Low Energy 4.1. [Source Code](https://github.com/mwaylabs/fruitymesh) `GPLv3` `C++`
 
-* [GNUnet](https://gnunet.org/) - A mesh routing layer for end-to-end encrypted networking and a framework for distributed applications designed to replace the old insecure Internet protocol stack.
+* [GNUnet](https://gnunet.org/) - A mesh routing layer for end-to-end encrypted networking and a framework for distributed applications designed to replace the old insecure Internet protocol stack. [Source Code](https://gnunet.org/git/) `GPLv3` `Java` (Various)
 
 * [OLSR](http://olsr.org/) - The Optimized Link State Routing Protocol (OLSR) is an IP routing protocol optimized for mobile ad hoc networks, which can also be used on other wireless ad hoc networks. [Source Code](https://github.com/OLSR/OONF)  `BSD` `C`
 
