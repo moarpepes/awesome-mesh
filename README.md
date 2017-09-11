@@ -22,7 +22,7 @@ This is a list for mesh networking: Documentation, Free Software mesh protocols,
 **[`^        back to top        ^`](#)**
 * [Wireless Mesh Networking](https://en.wikibooks.org/wiki/Wireless_Mesh_Networks) - A wikibook dedicated to the subject.
 
-* [Wireless Networking in the Development World] - Wireless Networking in the Developing World is a free book about designing, implementing, and maintaining low-cost wireless networks. Chapter 8 is dedicated to Mesh Networking.
+* [Wireless Networking in the Development World](http://wndw.net/) - Wireless Networking in the Developing World is a free book about designing, implementing, and maintaining low-cost wireless networks. Chapter 8 is dedicated to Mesh Networking.
 
 * [open80211s](https://github.com/o11s/open80211s/wiki/HOWTO) - This page provides a quick introduction to open80211s and gives step by step guide on how to set up a mesh network using open80211s and a supported driver.
 
