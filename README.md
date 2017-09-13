@@ -10,7 +10,7 @@ This is a list for mesh networking: Documentation, Free Software mesh protocols,
     - [Routing](#routing)
     - [Stack](#stack)
   - [Software](#software)
-    - [AllInOne](#allineone)
+    - [AllInOne](#allinone)
     - [Desktop](#desktop)
     - [Mobile](#mobile)
     - [Router](#router)
@@ -56,12 +56,11 @@ This is a list for mesh networking: Documentation, Free Software mesh protocols,
 
 ## Software
 **[`^        back to top        ^`](#)**
+
 ### AllInOne
 **[`^        back to top        ^`](#)**
 
 * [LifeNet](http://thelifenetwork.org/about.html) - LifeNet is a WiFi-based data communication solution designed for post-disaster scenarios. It is open-source software and designed to run on consumer devices such as laptops, smart-phones and wireless routers. [Source Code](https://github.com/hrushim/LifeNet) `GPLv3` `C`
-
-* [Project Byzantium](http://project-byzantium.org/) - Ad-hoc wireless mesh networking for the zombie apocalypse. [Source Code](https://github.com/Byzantium/Byzantium) `GPLv3` `C`
 
 * [Commotion Wireless](https://commotionwireless.net/) - Commotion is an open-source communication tool that uses wireless devices to create decentralized mesh networks on routers, mobiles, and desktops. [Source Code](https://github.com/opentechinstitute) `GPLv3` `C`
 
@@ -70,9 +69,11 @@ This is a list for mesh networking: Documentation, Free Software mesh protocols,
 
 * [FreeNet](https://freenetproject.org/) - Communications by Freenet nodes are encrypted and are routed through other nodes to make it extremely difficult to determine who is requesting the information and what its content is, data is shared by all users on the network. [Source Code](https://github.com/freenet/fred) `GPLv2` `Java`
 
-* [ZeroNet](https://zeronet.io/) - ZeroNet is a decentralized Internet-like network of peer-to-peer users. Each visitor is also a host. [Source Code](https://github.com/HelloZeroNet/ZeroNet) `GPLv2` `Python`
-
 * [Go-IPFS](https://ipfs.io/) - IPFS is a global, versioned, peer-to-peer filesystem. It combines good ideas from Git, BitTorrent, Kademlia, SFS, and the Web. It is like a single bittorrent swarm, exchanging git objects. [Source Code](https://github.com/ipfs/go-ipfs) `MIT` `Go`
+
+* [Project Byzantium](http://project-byzantium.org/) - Ad-hoc wireless mesh networking for the zombie apocalypse. Unlike most mesh implementations, a Byzantium Mesh requires no specialized equipment that may not be easy to get during an emergency, just an x86 computer with at least one 802.11 a/b/g/n wireless interface. [Source Code](https://github.com/Byzantium/Byzantium) `GPLv3` `C`
+
+* [ZeroNet](https://zeronet.io/) - ZeroNet is a decentralized Internet-like network of peer-to-peer users. Each visitor is also a host. [Source Code](https://github.com/HelloZeroNet/ZeroNet) `GPLv2` `Python`
 
 ### Mobile
 **[`^        back to top        ^`](#)**
