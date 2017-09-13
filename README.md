@@ -10,9 +10,10 @@ This is a list for mesh networking: Documentation, Free Software mesh protocols,
     - [Routing](#routing)
     - [Stack](#stack)
   - [Software](#software)
-    - [Mobile](#mobile)
-    - [Desktop](#desktop)
     - [AllInOne](#allineone)
+    - [Desktop](#desktop)
+    - [Mobile](#mobile)
+    - [Router](#router)
   - [License](#license)
 
 
@@ -55,6 +56,23 @@ This is a list for mesh networking: Documentation, Free Software mesh protocols,
 
 ## Software
 **[`^        back to top        ^`](#)**
+### AllInOne
+**[`^        back to top        ^`](#)**
+
+* [LifeNet](http://thelifenetwork.org/about.html) - LifeNet is a WiFi-based data communication solution designed for post-disaster scenarios. It is open-source software and designed to run on consumer devices such as laptops, smart-phones and wireless routers. [Source Code](https://github.com/hrushim/LifeNet) `GPLv3` `C`
+
+* [Project Byzantium](http://project-byzantium.org/) - Ad-hoc wireless mesh networking for the zombie apocalypse. [Source Code](https://github.com/Byzantium/Byzantium) `GPLv3` `C`
+
+* [Commotion Wireless](https://commotionwireless.net/) - Commotion is an open-source communication tool that uses wireless devices to create decentralized mesh networks on routers, mobiles, and desktops. [Source Code](https://github.com/opentechinstitute) `GPLv3` `C`
+
+### Desktop
+**[`^        back to top        ^`](#)**
+
+* [FreeNet](https://freenetproject.org/) - Communications by Freenet nodes are encrypted and are routed through other nodes to make it extremely difficult to determine who is requesting the information and what its content is, data is shared by all users on the network. [Source Code](https://github.com/freenet/fred) `GPLv2` `Java`
+
+* [ZeroNet](https://zeronet.io/) - ZeroNet is a decentralized Internet-like network of peer-to-peer users. Each visitor is also a host. [Source Code](https://github.com/HelloZeroNet/ZeroNet) `GPLv2` `Python`
+
+* [Go-IPFS](https://ipfs.io/) - IPFS is a global, versioned, peer-to-peer filesystem. It combines good ideas from Git, BitTorrent, Kademlia, SFS, and the Web. It is like a single bittorrent swarm, exchanging git objects. [Source Code](https://github.com/ipfs/go-ipfs) `MIT` `Go`
 
 ### Mobile
 **[`^        back to top        ^`](#)**
@@ -66,26 +84,14 @@ This is a list for mesh networking: Documentation, Free Software mesh protocols,
 
 * [Underdark](http://underdark.io/) - Mobile peer-to-peer mesh networking library. Integrates into iOS and Android apps and works over Wi-Fi and Bluetooth. Demo app called Solidarity available for download. [Source Code](https://github.com/udark/underdark-android) `modified-Apache 2.0`[(With Extra Clause)](http://underdark.io/LICENSE.txt) `Java`
 
-* [AirChat](https://github.com/lulzlabs/AirChat) - Free Communications For Everyone. Each node only cares for what is being received. No hardware identification, no transmitter plain identification. only packets matter. transmissions are anonymous. whenever an address is needed to reply to a packet, it is encrypted inside the packet. [Source Code](https://github.com/lulzlabs/AirChat) `Perl` `modified-WTFPL`
+* [AirChat](https://github.com/lulzlabs/AirChat) - Free Communications For Everyone. Each node only cares for what is being received. No hardware identification, no transmitter plain identification. only packets matter. transmissions are anonymous. whenever an address is needed to reply to a packet, it is encrypted inside the packet. [Source Code](https://github.com/lulzlabs/AirChat) `modified-WTFPL` `Perl`
 
-
-### Desktop
+### Router
 **[`^        back to top        ^`](#)**
 
-* [FreeNet](https://freenetproject.org/) - Communications by Freenet nodes are encrypted and are routed through other nodes to make it extremely difficult to determine who is requesting the information and what its content is, data is shared by all users on the network. [Source Code](https://github.com/freenet/fred) `GPLv2` `Java`
+* [Quick Mesh Project](https://qmp.cat/Home) - Quick Mesh Project (qMp) is a system for easily deploying Mesh/MANET networks using Wi-Fi technology. [Source Code](http://dev.qmp.cat/projects/qmp/repository) `GPLv2` `C`
 
-* [ZeroNet](https://zeronet.io/) - ZeroNet is a decentralized Internet-like network of peer-to-peer users. Each visitor is also a host. [Source Code](https://github.com/HelloZeroNet/ZeroNet) `GPLv2` `Python`
-
-* [Go-IPFS](https://ipfs.io/) - IPFS is a global, versioned, peer-to-peer filesystem. It combines good ideas from Git, BitTorrent, Kademlia, SFS, and the Web. It is like a single bittorrent swarm, exchanging git objects. [Source Code](https://github.com/ipfs/go-ipfs) `MIT` `Go`
-
-### AllInOne
-**[`^        back to top        ^`](#)**
-
-* [LifeNet](http://thelifenetwork.org/about.html) - LifeNet is a WiFi-based data communication solution designed for post-disaster scenarios. It is open-source software and designed to run on consumer devices such as laptops, smart-phones and wireless routers. [Source Code](https://github.com/hrushim/LifeNet) `GPLv3` `C`
-
-* [Project Byzantium](http://project-byzantium.org/) - Ad-hoc wireless mesh networking for the zombie apocalypse. [Source Code](https://github.com/Byzantium/Byzantium) `GPLv3` `C`
-
-* [Commotion Wireless](https://commotionwireless.net/) - Commotion is an open-source communication tool that uses wireless devices to create decentralized mesh networks on routers, mobiles, and desktops. [Source Code](https://github.com/opentechinstitute) `GPLv3` `C`
+* [LibreMesh] - LibreMesh is a modular framework for creating OpenWrt/LEDE-based firmwares for wireless mesh nodes. Several communities around the world use LibreMesh as the foundation of their local mesh firmwares. [Source Code](https://github.com/libremesh/) `AGPLv3` `Lua`
 
 ## Communities
 **[`^        back to top        ^`](#)**
