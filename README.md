@@ -92,7 +92,7 @@ This is a list for mesh networking: Documentation, Free Software mesh protocols,
 
 * [Quick Mesh Project](https://qmp.cat/Home) - Quick Mesh Project (qMp) is a system for easily deploying Mesh/MANET networks using Wi-Fi technology. [Source Code](http://dev.qmp.cat/projects/qmp/repository) `GPLv2` `C`
 
-* [LibreMesh] - LibreMesh is a modular framework for creating OpenWrt/LEDE-based firmwares for wireless mesh nodes. Several communities around the world use LibreMesh as the foundation of their local mesh firmwares. [Source Code](https://github.com/libremesh/) `AGPLv3` `Lua`
+* [LibreMesh](http://www.libremesh.org/) - LibreMesh is a modular framework for creating OpenWrt/LEDE-based firmwares for wireless mesh nodes. Several communities around the world use LibreMesh as the foundation of their local mesh firmwares. [Source Code](https://github.com/libremesh/) `AGPLv3` `Lua`
 
 ## Communities
 **[`^        back to top        ^`](#)**
