@@ -79,6 +79,8 @@ This is a list for mesh networking: Documentation, Free Software mesh protocols,
 **[`^        back to top        ^`](#)**
 * [Briar](https://briarproject.org) - Briar is a messaging app designed for activists, journalists, and anyone else who needs a safe, easy and robust way to communicate. If the internet's down, Briar can sync via Bluetooth or Wi-Fi, keeping the information flowing in a crisis. [Source Code](https://code.briarproject.org/akwizgran/briar/tree/master) `GPLv3` `Java`
 
+* [Disaster.radio](https://disaster.radio/) - A disaster-resilient communications network powered by the sun. [Source Code](https://github.com/sudomesh/disaster-radio/) `GPLv3` `Python`
+
 * [ServalMesh Batphone](http://www.servalproject.org/) - This app assumes zero infrastructure. The phones talk to each other using WiFi; relaying calls and messages and figuring out how to resolve numbers. In other words, it lets your phone communicate with other Android phones running Serval Mesh within WiFi range. [Source Code](https://github.com/servalproject/batphone) `GPLv3` `Java`
 
 * [Splinternet](https://github.com/megamattron/SplinterNet) - A serverless, unblockable messaging system for Android. [Source Code](https://github.com/megamattron/SplinterNet)  `MIT`[?](https://github.com/megamattron/SplinterNet/issues/6) `Java`
