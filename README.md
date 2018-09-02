@@ -132,6 +132,8 @@ This is a list for mesh networking: Documentation, Free Software mesh protocols,
 
 * [HELPER](http://helper.androcs.io/site/) Heterogeneous Efficient Low Power Radio Network - Devices developed by [ANDRO Computational Solutions, LLC](http://www.androcs.com/helper_network.html) for emergency and disaster situations. Stationary and mobile modules were designed. The System is raspberry pi based.
 
+* [GoTenna](https://www.gotenna.com) - Commercially available product which links to a smartphone via bluetooth and can send text messages and locations.
+
 
 ## License
 **[`^        back to top        ^`](#)**
