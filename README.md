@@ -44,6 +44,8 @@ This is a list for mesh networking: Documentation, Free Software mesh protocols,
 
 * [OLSR](http://olsr.org/) - The Optimized Link State Routing Protocol (OLSR) is an IP routing protocol optimized for mobile ad hoc networks, which can also be used on other wireless ad hoc networks. [Source Code](https://github.com/OLSR/OONF)  `BSD` `C`
 
+* JOKER (auto-adJustable Opportunistic acKnowledgment/ timEr-based Routing) - Proposal of a modified BATMAN network. However it stayed a study without further development or implementation. The open access paper from March 2016 gives reference to previous research efforts in this field. [IEEE Paper](https://ieeexplore.ieee.org/document/7438753)
+
 ### Stack
 **[`^        back to top        ^`](#)**
 
