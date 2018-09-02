@@ -29,6 +29,8 @@ This is a list for mesh networking: Documentation, Free Software mesh protocols,
 
 * [open80211s](https://github.com/o11s/open80211s/wiki/HOWTO) - This page provides a quick introduction to open80211s and gives step by step guide on how to set up a mesh network using open80211s and a supported driver.
 
+* [Wireless Innovation for a Networked Society (WINS) Challenges](https://wirelesschallenge.mozilla.org/) - This Mozilla project is "seeking solutions to connect the unconnected". An overview of selected ideas of project phase 1 can be found in the [Mozilla blog](https://blog.mozilla.org/blog/2018/02/20/20-big-ideas-connect-unconnected/). Many of these ideas involve some sort of mesh technology.
+
 ## Protocols
 **[`^        back to top        ^`](#)**
 
@@ -80,7 +82,7 @@ This is a list for mesh networking: Documentation, Free Software mesh protocols,
 ### Mobile
 **[`^        back to top        ^`](#)**
 
-* [Briar](https://briarproject.org) - Briar is a messaging app designed for activists, journalists, and anyone else who needs a safe, easy and robust way to communicate. If the internet is down, Briar can sync via Bluetooth or Wi-Fi between trusted clients. However, Briar does not relay messages through untrusted clients [Talk Torsten Grote @ 34C3](https://media.ccc.de/v/34c3-8937-briar), such that it is not suitable for desaster communication, where any (untrusted) client needs to work relay to build an efficient mesh network. [Source Code](https://code.briarproject.org/akwizgran/briar/tree/master) `GPLv3` `Java`
+* [Briar](https://briarproject.org) - Briar is a messaging app designed for activists, journalists, and anyone else who needs a safe, easy and robust way to communicate. If the internet is down, Briar can sync via Bluetooth or Wi-Fi between trusted clients. However, Briar does not relay messages through untrusted clients ([Talk Torsten Grote @ 34C3](https://media.ccc.de/v/34c3-8937-briar)), such that it is not suitable for desaster communication, where any (untrusted) client needs to work relay to build an efficient mesh network. [Source Code](https://code.briarproject.org/akwizgran/briar/tree/master) `GPLv3` `Java`
 
 * [Disaster.radio](https://disaster.radio/) - A disaster-resilient communications network powered by the sun. [Source Code](https://github.com/sudomesh/disaster-radio/) `GPLv3` `Python`
 
