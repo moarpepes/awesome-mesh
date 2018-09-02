@@ -77,7 +77,9 @@ This is a list for mesh networking: Documentation, Free Software mesh protocols,
 
 ### Mobile
 **[`^        back to top        ^`](#)**
-* [Briar](https://briarproject.org) - Briar is a messaging app designed for activists, journalists, and anyone else who needs a safe, easy and robust way to communicate. If the internet's down, Briar can sync via Bluetooth or Wi-Fi, keeping the information flowing in a crisis. [Source Code](https://code.briarproject.org/akwizgran/briar/tree/master) `GPLv3` `Java`
+
+* [Briar](https://briarproject.org) - Briar is a messaging app designed for activists, journalists, and anyone else who needs a safe, easy and robust way to communicate. If the internet's down, Briar can sync via Bluetooth or Wi-Fi, keeping the information flowing in a crisis. However only know (and trusted) clients relay messages [Talk Torsten Grote @ 34C3](https://media.ccc.de/v/34c3-8937-briar), such that it is not suitable for desaster communication, where any (unkown) client needs to work relay.
+[Source Code](https://code.briarproject.org/akwizgran/briar/tree/master) `GPLv3` `Java`
 
 * [Disaster.radio](https://disaster.radio/) - A disaster-resilient communications network powered by the sun. [Source Code](https://github.com/sudomesh/disaster-radio/) `GPLv3` `Python`
 
