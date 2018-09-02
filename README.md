@@ -36,7 +36,7 @@ This is a list for mesh networking: Documentation, Free Software mesh protocols,
 **[`^        back to top        ^`](#)**
 * [babled](http://www.pps.univ-paris-diderot.fr/~jch/software/babel/) - Babel is a loop-avoiding distance-vector routing protocol for IPv6 and IPv4 with fast convergence properties. It is based on the ideas in DSDV, AODV and Cisco's EIGRP, but is designed to work well not only in wired networks but also in wireless mesh networks, and has been extended with support for overlay networks. [Source Code](https://github.com/jech/babeld) `MIT` `C`
 
-* [batman-adv](https://github.com/torvalds/linux/blob/master/Documentation/networking/batman-adv.rst) - Batman advanced is a new approach to wireless networking which does no longer operate on the IP basis. [Source Code](https://www.open-mesh.org/projects/open-mesh/wiki/Download) `GPLv2` `C`
+* [B.A.T.M.A.N.](https://www.open-mesh.org) (better approach to mobile ad-hoc networking) - The newest version, Batman advanced is a new approach to wireless networking which does no longer operate on the IP basis. It can be found as [batman-adv](https://github.com/torvalds/linux/blob/master/Documentation/networking/batman-adv.rst) in the linux kernel. [Source Code](https://www.open-mesh.org/projects/open-mesh/wiki/Download) `GPLv2` `C`
 
 * [cjdns](https://github.com/cjdelisle/cjdns/) - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing. [Source Code](https://github.com/cjdelisle/cjdns/) `GPLv3` `Assembly`
 
