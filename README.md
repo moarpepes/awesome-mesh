@@ -29,6 +29,8 @@ This is a list for mesh networking: Documentation, Free Software mesh protocols,
 
 * [open80211s](https://github.com/o11s/open80211s/wiki/HOWTO) - This page provides a quick introduction to open80211s and gives step by step guide on how to set up a mesh network using open80211s and a supported driver.
 
+* [Wireless Innovation for a Networked Society (WINS) Challenges](https://wirelesschallenge.mozilla.org/) - This Mozilla project is "seeking solutions to connect the unconnected". An overview of selected ideas of project phase 1 can be found in the [Mozilla blog](https://blog.mozilla.org/blog/2018/02/20/20-big-ideas-connect-unconnected/). Many of these ideas involve some sort of mesh technology.
+
 ## Protocols
 **[`^        back to top        ^`](#)**
 
@@ -36,13 +38,15 @@ This is a list for mesh networking: Documentation, Free Software mesh protocols,
 **[`^        back to top        ^`](#)**
 * [babled](http://www.pps.univ-paris-diderot.fr/~jch/software/babel/) - Babel is a loop-avoiding distance-vector routing protocol for IPv6 and IPv4 with fast convergence properties. It is based on the ideas in DSDV, AODV and Cisco's EIGRP, but is designed to work well not only in wired networks but also in wireless mesh networks, and has been extended with support for overlay networks. [Source Code](https://github.com/jech/babeld) `MIT` `C`
 
-* [batman-adv](https://github.com/torvalds/linux/blob/master/Documentation/networking/batman-adv.rst) - Batman advanced is a new approach to wireless networking which does no longer operate on the IP basis. [Source Code](https://www.open-mesh.org/projects/open-mesh/wiki/Download) `GPLv2` `C`
+* [B.A.T.M.A.N.](https://www.open-mesh.org) (better approach to mobile ad-hoc networking) - The newest version, Batman advanced is a new approach to wireless networking which does no longer operate on the IP basis. It can be found as [batman-adv](https://github.com/torvalds/linux/blob/master/Documentation/networking/batman-adv.rst) in the linux kernel. [Source Code](https://www.open-mesh.org/projects/open-mesh/wiki/Download) `GPLv2` `C`
 
 * [cjdns](https://github.com/cjdelisle/cjdns/) - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing. [Source Code](https://github.com/cjdelisle/cjdns/) `GPLv3` `Assembly`
 
 * [GNUnet](https://gnunet.org/) - A mesh routing layer for end-to-end encrypted networking and a framework for distributed applications designed to replace the old insecure Internet protocol stack. [Source Code](https://gnunet.org/git/) `GPLv3` `Java` (Various)
 
 * [OLSR](http://olsr.org/) - The Optimized Link State Routing Protocol (OLSR) is an IP routing protocol optimized for mobile ad hoc networks, which can also be used on other wireless ad hoc networks. [Source Code](https://github.com/OLSR/OONF)  `BSD` `C`
+
+* JOKER (auto-adJustable Opportunistic acKnowledgment/ timEr-based Routing) - Proposal of a modified BATMAN network. However it stayed a study without further development or implementation. The open access paper from March 2016 gives reference to previous research efforts in this field. [IEEE Paper](https://ieeexplore.ieee.org/document/7438753)
 
 ### Stack
 **[`^        back to top        ^`](#)**
@@ -77,7 +81,8 @@ This is a list for mesh networking: Documentation, Free Software mesh protocols,
 
 ### Mobile
 **[`^        back to top        ^`](#)**
-* [Briar](https://briarproject.org) - Briar is a messaging app designed for activists, journalists, and anyone else who needs a safe, easy and robust way to communicate. If the internet's down, Briar can sync via Bluetooth or Wi-Fi, keeping the information flowing in a crisis. [Source Code](https://code.briarproject.org/akwizgran/briar/tree/master) `GPLv3` `Java`
+
+* [Briar](https://briarproject.org) - Briar is a messaging app designed for activists, journalists, and anyone else who needs a safe, easy and robust way to communicate. If the internet is down, Briar can sync via Bluetooth or Wi-Fi between trusted clients. However, Briar does not relay messages through untrusted clients ([Talk Torsten Grote @ 34C3](https://media.ccc.de/v/34c3-8937-briar)), such that it is not suitable for desaster communication, where any (untrusted) client needs to work relay to build an efficient mesh network. [Source Code](https://code.briarproject.org/akwizgran/briar/tree/master) `GPLv3` `Java`
 
 * [Disaster.radio](https://disaster.radio/) - A disaster-resilient communications network powered by the sun. [Source Code](https://github.com/sudomesh/disaster-radio/) `GPLv3` `Python`
 
@@ -88,6 +93,8 @@ This is a list for mesh networking: Documentation, Free Software mesh protocols,
 * [Underdark](http://underdark.io/) - Mobile peer-to-peer mesh networking library. Integrates into iOS and Android apps and works over Wi-Fi and Bluetooth. Demo app called Solidarity available for download. [Source Code](https://github.com/udark/underdark-android) `modified-Apache 2.0`[(With Extra Clause)](http://underdark.io/LICENSE.txt) `Java`
 
 * [AirChat](https://github.com/lulzlabs/AirChat) - Free Communications For Everyone. Each node only cares for what is being received. No hardware identification, no transmitter plain identification. only packets matter. transmissions are anonymous. whenever an address is needed to reply to a packet, it is encrypted inside the packet. [Source Code](https://github.com/lulzlabs/AirChat) `modified-WTFPL` `Perl`
+
+* [The SPAN Project](https://projectspan.github.io) - Smart Phone Ad-hoc Networking is a mobile ad hoc network (MANET) project which provides a push-to-talk (PPT) service on android devices ([Google Play](https://play.google.com/store/apps/developer?id=stoker)). The project seems to be abandoned. [Source Code](https://github.com/ProjectSPAN) `C` `Java` `HTML`
 
 ### Router
 **[`^        back to top        ^`](#)**
@@ -118,6 +125,15 @@ This is a list for mesh networking: Documentation, Free Software mesh protocols,
 * [Guifi.net](https://guifi.net/en) - Spain's largest community wifi project.
 
 * [SudoRoom's Mesh Group](https://sudoroom.org/wiki/Mesh) - A collective of collectives stewarding a large community space in Oakland, California.
+
+
+## Hardware
+**[`^        back to top        ^`](#)**
+
+* [HELPER](http://helper.androcs.io/site/) Heterogeneous Efficient Low Power Radio Network - Devices developed by [ANDRO Computational Solutions, LLC](http://www.androcs.com/helper_network.html) for emergency and disaster situations. Stationary and mobile modules were designed. The System is raspberry pi based.
+
+* [GoTenna](https://www.gotenna.com) - Commercially available product which links to a smartphone via bluetooth and can send text messages and locations.
+
 
 ## License
 **[`^        back to top        ^`](#)**
