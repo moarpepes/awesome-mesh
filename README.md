@@ -126,6 +126,13 @@ This is a list for mesh networking: Documentation, Free Software mesh protocols,
 
 * [SudoRoom's Mesh Group](https://sudoroom.org/wiki/Mesh) - A collective of collectives stewarding a large community space in Oakland, California.
 
+
+## Hardware
+**[`^        back to top        ^`](#)**
+
+* [HELPER](http://helper.androcs.io/site/) Heterogeneous Efficient Low Power Radio Network - Devices developed by [ANDRO Computational Solutions, LLC](http://www.androcs.com/helper_network.html) for emergency and disaster situations. Stationary and mobile modules were designed. The System is raspberry pi based.
+
+
 ## License
 **[`^        back to top        ^`](#)**
 
