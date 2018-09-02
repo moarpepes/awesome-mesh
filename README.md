@@ -90,6 +90,8 @@ This is a list for mesh networking: Documentation, Free Software mesh protocols,
 
 * [AirChat](https://github.com/lulzlabs/AirChat) - Free Communications For Everyone. Each node only cares for what is being received. No hardware identification, no transmitter plain identification. only packets matter. transmissions are anonymous. whenever an address is needed to reply to a packet, it is encrypted inside the packet. [Source Code](https://github.com/lulzlabs/AirChat) `modified-WTFPL` `Perl`
 
+* [The SPAN Project](https://projectspan.github.io) - Smart Phone Ad-hoc Networking is a mobile ad hoc network (MANET) project which provides a push-to-talk (PPT) service on android devices ([Google Play](https://play.google.com/store/apps/developer?id=stoker)). The project seems to be abandoned. [Source Code](https://github.com/ProjectSPAN) `C` `Java` `HTML`
+
 ### Router
 **[`^        back to top        ^`](#)**
 
