@@ -40,7 +40,7 @@ This is a list for mesh networking: Documentation, Free Software mesh protocols,
 
 * [cjdns](https://github.com/cjdelisle/cjdns/) - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing. [Source Code](https://github.com/cjdelisle/cjdns/) `GPLv3` `Assembly`
 
-* [GNUnet](https://gnunet.org/) - A mesh routing layer for end-to-end encrypted networking and a framework for distributed applications designed to replace the old insecure Internet protocol stack. [Source Code](https://gnunet.org/git/) `GPLv3` `Java` (Various)
+* [GNUnet](https://gnunet.org/) - A peer-to-peer framework providing a network abstractions and applications focusing on security and privacy. Services include anonymous file-sharing, decentralized naming and identity management, decentralized and confidential telephony and tunneling IP traffic. [Source Code](https://gnunet.org/git/) `GPLv3` `C` (Various)
 
 * [OLSR](http://olsr.org/) - The Optimized Link State Routing Protocol (OLSR) is an IP routing protocol optimized for mobile ad hoc networks, which can also be used on other wireless ad hoc networks. [Source Code](https://github.com/OLSR/OONF)  `BSD` `C`
 
