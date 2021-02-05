@@ -89,6 +89,8 @@ This is a list for mesh networking: Documentation, Free Software mesh protocols,
 
 * [AirChat](https://github.com/lulzlabs/AirChat) - Free Communications For Everyone. Each node only cares for what is being received. No hardware identification, no transmitter plain identification. only packets matter. transmissions are anonymous. whenever an address is needed to reply to a packet, it is encrypted inside the packet. [Source Code](https://github.com/lulzlabs/AirChat) `modified-WTFPL` `Perl`
 
+* [Bridgefy](https://bridgefy.me/) - Make Your App Work Without Internet. The Bridgefy SDK makes mobile apps work using mesh networks instead of Internet, letting your users engage with your app during large events, natural disasters, schools, and much more. `free app` `paid library`
+
 ### Router
 **[`^        back to top        ^`](#)**
 
