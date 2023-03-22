@@ -117,6 +117,8 @@ This is a list for mesh networking: Documentation, Free Software mesh protocols,
 
 * [Guifi.net](https://guifi.net/en) - Spain's largest community wifi project.
 
+* [KULUPU](https://kulupu.io) - Mesh networking community in Montreal.
+
 * [SudoRoom's Mesh Group](https://sudoroom.org/wiki/Mesh) - A collective of collectives stewarding a large community space in Oakland, California.
 
 ## License
